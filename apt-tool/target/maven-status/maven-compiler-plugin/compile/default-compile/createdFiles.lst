@@ -1,0 +1,4 @@
+com\linmt\processor\DataProcessor$1.class
+com\linmt\annotation\Data.class
+com\linmt\processor\DataProcessor.class
+META-INF\services\javax.annotation.processing.Processor
